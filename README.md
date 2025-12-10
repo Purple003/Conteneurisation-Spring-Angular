@@ -81,10 +81,14 @@ Une fois l'infrastructure déployée, les différents composants sont accessible
 
 ## 7. Démonstration
 
-Cette section est réservée à la présentation de captures d'écran validant le bon fonctionnement de l'application.
 
-### 7.1. Interface Utilisateur
-*(Insérer ici une capture d'écran montrant l'interface principale de l'application Angular chargée dans le navigateur)*
 
-### 7.2. Base de Données
-*(Insérer ici une capture d'écran de l'interface PhpMyAdmin confirmant la création et la structure de la base de données)*
+https://github.com/user-attachments/assets/0abbc9ec-29c1-42b2-934a-bbdf7dc4c921
+## Auteur
+- Nom : Arroche Aya
+- Cours : Développement web full-stack avec JavaScript
+- Encadre par :Pr.Mohamed LACHGAR
+
+
+
+
